@@ -1,0 +1,27 @@
+# Intellij
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Compiled class files
+*.class
+
+# JAR files
+*.jar
+*.war
+*.ear
+
+# Log files
+*.log
+
+# System files
+.DS_Store
+
+# Build folders to ignore
+bin/
+build/
+dist/
+out/
+target/
