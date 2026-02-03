@@ -9,7 +9,7 @@ import com.apps.quantitymeasurement.QuantityMeasurementApp.LengthUnit;
 public class QuantityMeasurementAppTest {
 
     @Test
-    public void testEquality_FeetToFeet_SameValue() {
+    public void testEqualityFeetToFeetSameValue() {
         assertTrue(new Length(1.0, LengthUnit.FEET)
                 .equals(new Length(1.0, LengthUnit.FEET)));
     }

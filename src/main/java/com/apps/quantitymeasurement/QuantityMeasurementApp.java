@@ -2,7 +2,7 @@ package com.apps.quantitymeasurement;
 
 public class QuantityMeasurementApp {
 
-    /**
+    /*
      * Enum representing supported length units.
      * Base unit is INCHES.
      */
